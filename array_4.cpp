@@ -7,7 +7,7 @@ int main()
 	for(i=0;i<10;i++)
 	{
 		cout<<"enter i:";
-		cin>>a[i];                
+		cin>>a[i];
 	}
 	for(i=0;i<10;i++)
 	{
